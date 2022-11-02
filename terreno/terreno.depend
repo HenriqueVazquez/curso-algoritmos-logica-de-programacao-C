@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666216046 source:c:\users\hek\documents\algoritimo e logica\9\terreno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

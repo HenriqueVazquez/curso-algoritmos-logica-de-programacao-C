@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+int a, b, c, menor;
+
+    printf("Primeiro valor: ");
+    scanf("%d", &a);
+
+    printf("\nSegundo valor: ");
+    scanf("%d", &b);
+
+    printf("\nTerceiro valor: ");
+    scanf("%d", &c);
+
+    if (a < b && a < c)
+    {
+        menor = a;
+    }
+    else if(b < c)
+    {
+        menor = b;
+    }
+    else
+    {
+        menor = c;
+    }
+
+    printf("\nMENOR = %d", menor);
+    return 0;
+}

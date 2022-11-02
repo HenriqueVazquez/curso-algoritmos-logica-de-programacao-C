@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667003650 source:c:\users\hek\documents\algoritimo e logica\9\soma_linhas\main.c
+	<stdio.h>
+	<stdlib.h>
+

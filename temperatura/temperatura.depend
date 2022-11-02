@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666822315 source:c:\users\hek\documents\algoritimo e logica\9\temperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
